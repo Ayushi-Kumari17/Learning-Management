@@ -7,7 +7,7 @@ import Dashboard from "../Dashboard/Dashboard";
 const LayoutDashboard=()=>
 {
     return (
-        
+
         <>
           <div className="layout">
         <div className="main-container">
